@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://cornhub.website/sitemap.xml
